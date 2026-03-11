@@ -37,6 +37,3 @@ pyinstaller --onefile --noconsole --name "Snake Game" --hidden-import=pygame --i
 
 The compiled `.exe` file will be located in the `dist/` folder.
 
-## License
-
-MIT
